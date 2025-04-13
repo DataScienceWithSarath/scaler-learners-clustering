@@ -15,7 +15,6 @@ This case study focuses on segmenting learners from **Scaler** based on their jo
 
 ---
 
-## ✅ Key Insight
 
 ## ✅ Key Insights
 
